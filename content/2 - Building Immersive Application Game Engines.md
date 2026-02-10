@@ -151,6 +151,7 @@ In Summary, **Chapter 2** bridges the gap between the physical and digital world
 That'll be it for chapter 2 guys, I'll hand it back to mik to finish it off with chp 3.
 
 [[1 - Introduction to VR|Previous]] | [[3 - Immersive Gameplay Testing|Next]]
+
 [[index|Index]]
 
 "I kinda knew that this is how it would end" -Balu Brigada

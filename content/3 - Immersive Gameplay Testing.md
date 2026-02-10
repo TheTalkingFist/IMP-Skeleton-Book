@@ -109,4 +109,4 @@ Yep, that's all three chapters for Immersive Applications!
 This also incidentally happens to be our penultimate skeleton book. The final one will be the one for BEV , coming hopefully not right before the test. See you then!
 
 [[2 - Building Immersive Application Game Engines|Previous]]
-[[0 - Index|Index]]
+[[index|Index]]

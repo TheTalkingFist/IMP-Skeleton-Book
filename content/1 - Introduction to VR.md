@@ -16,7 +16,7 @@ superimpose
 _verb_
 
 1. place or lay (one thing) over another, typically so that both are still evident.
-    
+
     "the number will appear on the screen, **superimposed on** a flashing button"
 ```
 
@@ -124,7 +124,7 @@ Users may have access to holographic interfaces that can be manipulated using co
 
 - **Gesture-Based Controls**
 Some editors use hand gestures and motions for bigger transformations. For example, using motion tracking to detect a wave of the hand might trigger scaling while rotating a hand could do rotation.
-- As well, Leap Motion Controller, a small USB-connected device that uses infrared cameras and sensors to track movements of a user's hands with precision. 
+- As well, Leap Motion Controller, a small USB-connected device that uses infrared cameras and sensors to track movements of a user's hands with precision.
 	- Real-time tracking of hand and finger movements to create natural and
 	immersive interactions within VR and AR environments.
 	- Enables users to interact with virtual objects, manipulate 3D models, and
@@ -142,7 +142,7 @@ Some experimental VR apps explore Brain-Computer Interfaces (BCIs) to control tr
 - **Voice Commands**
 Some VR environments can use voice commands to trigger transformations
 
-The availability depends on the program, platform, hardware and design. That is to say, not all programs will have all of these features.  
+The availability depends on the program, platform, hardware and design. That is to say, not all programs will have all of these features.
 
 ---
 # 1.3. Locomotion
@@ -197,7 +197,7 @@ Just like before, there is no best way of locomotion, all of these are applicabl
 And that should be the whole of Chapter 1! Jabriel will be writing the next one, so I'll see you guys back in Chapter 3.
 
 [[2 - Building Immersive Application Game Engines|Next]]
-[[0 - Index|Index]]
+[[index|Index]]
 
 Though, while I was writing it, I saw the Kinect mention and had to look it up. I had one of those as a younger kid with an Xbox and absolutely loved it.
 

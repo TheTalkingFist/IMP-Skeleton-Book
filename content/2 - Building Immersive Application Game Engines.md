@@ -26,7 +26,7 @@ When developing VR esque items we have to make the user feel like they are "ther
 	 The design of the user interface and interaction mechanics is crucial, Controls must be **intuitive and ergonomic**. If the button layout is confusing, the "fun" disappears immediately!
 
 **6. Testing & Iteration**:
-	  After you have done mapping the controller input, thorough testing and user feedback is crucial. As devs we should always terate on the input system to address any issues or improve the user experience.
+	  After you have done mapping the controller input, thorough testing and user feedback is crucial. As devs we should always iterate on the input system to address any issues or improve the user experience.
 
 **7. Optimisation**:
 	 Good controller input = Smooth VR/AR experience. Developers should optimise the input processing to minimise latency and ensure real-time responsiveness

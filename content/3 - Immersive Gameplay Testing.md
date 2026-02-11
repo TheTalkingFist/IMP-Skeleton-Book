@@ -15,12 +15,21 @@ There are a few things that could contribute to motion sickness:
 - **Artificial Locomotion**
 	- Virtually moving while the user themselves stay still in the physical world can cause motion sickness, due do the perception of movement compared to their body actually staying still.
 - **Smooth Camera Movement**
-	- Smooth camera movement, like walking or continuous motion, can lead to the sicks. Moreso to people who are new to VR.
+	- Smooth camera movement, like **walking or continuous motion**, can lead to the sicks. Moreso to people who are new to VR.
 - **Low Frame Rates**
-	- You can probably expect this stutter to get you sick. The lack of smoothness (counterintuitive from the last point) can cause discomfort. VR systems need to keep a high frame rate to reduce this risk.
+	- You can probably expect this low-FPS stutter to get you sick. The lack of smoothness (counterintuitive from the last point) can cause discomfort. VR systems need to keep a high frame rate to reduce this risk.
 	- Anything below 60 FPS will cause motion sickness. 120 FPS makes some great VR training, and anything above that is "just fantastic", according to the course notes.
 - **Field of View (FOV)**
 	- You should know what an FOV is from our previous modules. Narrower FOVs can lead to more motion sickness.
+- **Simulator Sickness**
+	- Extreme movement simulations, like roller coasters, flight sims and racing games, are more likely to induce motion sickness. Especially those who aren't used to it.
+
+So, in what ways can we lessen the risk of people throwing their lunches out?
+- Offering options for teleportation, reducing artificial locomotion
+- Ensuring VR experiences maintain high FPS and low latency
+- Encouraging users to take regular breaks
+- Implementing comfort, QoL settings like FoV reduction, vignetting or snap-turning to minimise motion-sickness inducing factors
+- Slowly and gradually acclimating users to VR experiences over time, getting them used to it and building up tolerance.
 
 ---
 

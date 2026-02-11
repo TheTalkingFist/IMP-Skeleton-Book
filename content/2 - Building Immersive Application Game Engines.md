@@ -16,24 +16,23 @@ When developing VR esque items we have to make the user feel like they are "ther
 
 - **6 DoF**: On the other hand, the 6DoF will track both the X,Y,Z rotation and the X, Y, Z Position of the Head
 
-  **3. Input Event Detection**:
+**3. Input Event Detection**:
 	  The app will constantly monitors for **button presses, thumbstick movements, and trigger pulls**. These are then mapped to actions like shooting, drawing, or grabbing
 
-  **4. Feedback**:
+**4. Feedback**:
 	  To make it "real," controllers use vibrations or physical sensations to simulate touching virtual objects. Enhancing the overall sense of immersion for the user.
 
-  **5. UX Design**:
+**5. UX Design**:
 	 The design of the user interface and interaction mechanics is crucial, Controls must be **intuitive and ergonomic**. If the button layout is confusing, the "fun" disappears immediately!
 
-  **6. Testing & Iteration:
+**6. Testing & Iteration**:
 	  After you have done mapping the controller input, thorough testing and user feedback is crucial. As devs we should always terate on the input system to address any issues or improve the user experience.
-user experience.
 
-  **7. Optimisation**:
+**7. Optimisation**:
 	 Good controller input = Smooth VR/AR experience. Developers should optimise the input processing to minimise latency and ensure real-time responsiveness
 
-  **8. Safety & Comfort**:
-	 We should always consider user safety and comfort which are crucial for VR/AR products. Developers should implement features to prevent motion sickness and ensure that user movements are natural and ergonomic
+**8. Safety & Comfort**:
+	 We should always consider user safety and comfort which are crucial for VR/AR products. Developers should implement features to prevent motion sickness and ensure that user movements are natural and ergonomic. We talk about this more in [[3 - Immersive Gameplay Testing#3.1. Risk of Motion Sickness in Virtual Reality|Chapter 3.1.]]
 
 Section Summary:
 Gathering user input through controllers is central to VR/AR, requiring seamless hardware–software integration, thoughtful UX design, and ongoing refinement to ensure intuitive interaction.

@@ -145,13 +145,11 @@ Section Summary:
 A well-designed VR interface is intuitive, responsive, and accessible. Ensuring user comfort, enhances immersion, and elevates the overall experience for the user.
 
 
-In Summary, **Chapter 2** bridges the gap between the physical and digital worlds by focusing on the **fundamentals of built environments** and the technical mechanics required to make them **interactive**. It defines the built environment through industrial, retail, residential, and commercial lenses, utilizing **reality capture methods** like 360° video, photogrammetry, and LiDAR to digitize these spaces with high visual accuracy. Beyond mere visuals, the chapter details the "magic" of **immersive interaction**, explaining how to gather user input through **3DoF or 6DoF tracking**, implement **magnetic snapping** for precise object placement, and design **functional UIs** that handle everything from navigation to safety warnings. By balancing realistic environmental data with intuitive controls and haptic feedback, developers can transform static 3D models into engaging, "game-ready" experiences.
-
 ---
 That'll be it for chapter 2 guys, I'll hand it back to mik to finish it off with chp 3.
 
 [[1 - Introduction to VR|Previous]] | [[3 - Immersive Gameplay Testing|Next]]
-
+<br>
 [[index|Index]]
 
 "I kinda knew that this is how it would end" -Balu Brigada

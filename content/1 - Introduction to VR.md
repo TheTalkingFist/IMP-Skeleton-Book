@@ -197,7 +197,7 @@ Just like before, there is no best way of locomotion, all of these are applicabl
 And that should be the whole of Chapter 1! Jabriel will be writing the next one, so I'll see you guys back in Chapter 3.
 
 [[2 - Building Immersive Application Game Engines|Next]]
-
+<br>
 [[index|Index]]
 
 Though, while I was writing it, I saw the Kinect mention and had to look it up. I had one of those as a younger kid with an Xbox and absolutely loved it.

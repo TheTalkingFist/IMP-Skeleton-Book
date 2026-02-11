@@ -105,7 +105,7 @@ Unfortunately for you, that process is its own hill. What you'll have to go thro
 - User Support and Documentation
 	- Make some clear FAQs, tutorials and troubleshooting guides. Helps your users make the most of your app.
 - Legal and Copyright Compliance
-	- Make sure your VR app complies with copyright laws, privacy regulations, all that other stuff, just so no Japanese video game company goliath that has been in the market since the 1970s.
+	- Make sure your VR app complies with copyright laws, privacy regulations, all that other stuff, just so no Japanese video game company goliath that has been in the market since the 1970s can strike you down and leave you homeless.
 	- Also make sure you can do that to anyone who copies you by protecting your intellectual property and trademarks as needed.
 - Monitoring and Analytics
 	- Use tools to track user engagement, performance and get insights to improve your application.
